@@ -1,5 +1,55 @@
+body{
+  background-color:#ccffcc;
+  background-repeat: no-repeat;
+background-position: cover;
+background-size: 100%;
+}
+
 .animalstyle {
+
     position: relative;
     float:left;
     margin:10px;
+   
+  }
+  form{
+    position: relative;
+    float: right;
+  }
+  #Data{
+    margin: 3px;
+    height:30px;
+    width: 150px;
+  }
+  #submit{
+    float:right;
+    background-color:lightsalmon;
+    color: black;
+    margin: 3px;
+    height:30px;
+    width: 100px;
+    font-size:15px;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 10px;
+  }
+  .moveImage{
+    width:150px; 
+    height:120px;
+    padding: 0%;
+  }
+  .Button{
+    background-color:lightblue;
+    color:black;
+    margin: 3px;
+    height:30px;
+    width: auto;
+    font-size:15px;
+    border-radius: 5px;
+    text-align: center;
+
+  }
+  label{
+    font-size: 20px;
+    
   }
